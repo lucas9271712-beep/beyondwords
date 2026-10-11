@@ -1,0 +1,40 @@
+{
+ "front_panel": {
+  "assessment": "SUFFICIENT_DECLARED_NATIVE_PIXELS",
+  "effective_dpi": 300.0041096453376,
+  "native_effective_dpi": 300.0041096453376,
+  "placement_inches": [
+   "2.2533",
+   "2.4333"
+  ],
+  "actual_pixels": [
+   676,
+   730
+  ],
+  "retained_crop": [
+   46,
+   390,
+   676,
+   730
+  ]
+ },
+ "back_vignette": {
+  "assessment": "SUFFICIENT_DECLARED_NATIVE_PIXELS",
+  "effective_dpi": 300.0057693417181,
+  "native_effective_dpi": 300.0057693417181,
+  "placement_inches": [
+   "3.4666",
+   "2.0666"
+  ],
+  "actual_pixels": [
+   1040,
+   620
+  ],
+  "retained_crop": [
+   170,
+   120,
+   1040,
+   620
+  ]
+ }
+}

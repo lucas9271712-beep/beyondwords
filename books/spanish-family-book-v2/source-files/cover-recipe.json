@@ -1,0 +1,126 @@
+{
+ "tool": "build/build_cover.py",
+ "generated_for": {
+  "title": "Everyday English for Kids: A Spanish-English Activity Workbook",
+  "author": "Lucas Oliver"
+ },
+ "spec": {
+  "trim": [
+   8.5,
+   11.0
+  ],
+  "bleed": 0.125,
+  "dpi": 300,
+  "paper": "premium color, white paper",
+  "thickness_per_page": 0.002347,
+  "page_count": 45,
+  "spine_inches": 0.1056,
+  "wrap_inches": [
+   17.3556,
+   11.25
+  ],
+  "wrap_pixels": [
+   5207,
+   3375
+  ],
+  "spine_text": "none (spine too narrow for legible safe text)",
+  "barcode_zone": "kept clear, lower-right of back panel, 2.0 x 1.2 in",
+  "source": "KDP Create a Paperback Cover, verified 2026-10-11"
+ },
+ "panels": {
+  "back": [
+   0,
+   2588
+  ],
+  "spine": [
+   2588,
+   2619
+  ],
+  "front": [
+   2619,
+   5207
+  ]
+ },
+ "colors": {
+  "cream": [
+   253,
+   246,
+   233
+  ],
+  "navy": [
+   31,
+   58,
+   95
+  ],
+  "coral": [
+   232,
+   87,
+   75
+  ],
+  "yellow": [
+   246,
+   185,
+   59
+  ],
+  "blue": [
+   74,
+   144,
+   217
+  ],
+  "green": [
+   106,
+   176,
+   76
+  ]
+ },
+ "fonts": [
+  "Baloo2-ExtraBold.ttf",
+  "Baloo2-Bold.ttf",
+  "Nunito-Regular.ttf",
+  "Nunito-Bold.ttf",
+  "Nunito-Italic.ttf"
+ ],
+ "texts": {
+  "title_lines": [
+   "Everyday English",
+   "for Kids"
+  ],
+  "subtitle": "A Spanish-English Activity Workbook",
+  "author": "Lucas Oliver",
+  "tagline": "English - Spanish  \u00b7  Ages 8-12  \u00b7  Illustrated activities",
+  "blurb": "A friendly first step into English for Spanish-speaking kids. Eight illustrated chapters build real vocabulary - greetings, colors, numbers, family, school, home, questions and everyday dialogues - with Say-it pronunciations made from Spanish sounds.",
+  "bullets": [
+   "46 bilingual activities with a complete answer key",
+   "Say-it pronunciation help for Spanish speakers",
+   "Short stories and dialogues in natural American English",
+   "A family practice game in every chapter",
+   "140+ word English-Spanish glossary"
+  ]
+ },
+ "art": {
+  "file": "illustrations/cover-art-front.png",
+  "sha256": "d8a9a2e2e59bb283b4a6182a24ff89ea427829948baa524f5ad8e583adae258d",
+  "native_px": [
+   676,
+   730
+  ],
+  "crop_pixels": [
+   46,
+   390,
+   676,
+   730
+  ],
+  "front_panel_scale": 1.0,
+  "effective_dpi_at_placement": 300.0
+ },
+ "vignette": {
+  "file": "illustrations/ch08-celebration-stars.png",
+  "sha256": "332ed23ce734dd24e4f374b51993a179ae2045f9ac9de62c9c33529896af4102",
+  "crop_pixels": [
+   170,
+   120,
+   1040,
+   620
+  ]
+ }
+}

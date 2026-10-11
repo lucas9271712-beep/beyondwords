@@ -1,0 +1,74 @@
+[
+ {
+  "check": "chapter files exist nonzero",
+  "result": "PASS",
+  "detail": "chapter-01-welcome.md:10059B; chapter-02-everyday-words.md:6073B; chapter-03-meeting-people.md:6224B; chapter-04-school-and-home.md:5290B; chapter-05-questions-and-sentences.md:5883B; chapter-06-everyday-dialogues.md:6772B; chapter-07-reading-practice.md:7759B; chapter-08-review-and-answers.md:14208B",
+  "kind": "automated"
+ },
+ {
+  "check": "activity ids unique",
+  "result": "PASS",
+  "detail": "46 activities; duplicates=[]",
+  "kind": "automated"
+ },
+ {
+  "check": "every activity has an answer-key entry",
+  "result": "PASS",
+  "detail": "activities=46 keys=46 missing=[]",
+  "kind": "automated"
+ },
+ {
+  "check": "no orphan answer-key entries",
+  "result": "PASS",
+  "detail": "extra=[]",
+  "kind": "automated"
+ },
+ {
+  "check": "closed-form item counts match key",
+  "result": "PASS",
+  "detail": "all closed activities match",
+  "kind": "automated"
+ },
+ {
+  "check": "no mojibake",
+  "result": "PASS",
+  "detail": "clean utf-8",
+  "kind": "automated"
+ },
+ {
+  "check": "spanish diacritics present",
+  "result": "PASS",
+  "detail": "\u00e1 \u00e9 \u00ed \u00f3 \u00fa \u00f1 \u00bf \u00a1 all present",
+  "kind": "automated"
+ },
+ {
+  "check": "referenced illustrations exist",
+  "result": "PASS",
+  "detail": "all resolve",
+  "kind": "automated"
+ },
+ {
+  "check": "no placeholder text",
+  "result": "PASS",
+  "detail": "none found",
+  "kind": "automated"
+ },
+ {
+  "check": "glossary alphabetical",
+  "result": "PASS",
+  "detail": "142 entries; sorted=True",
+  "kind": "automated"
+ },
+ {
+  "check": "every activity has spanish instructions",
+  "result": "PASS",
+  "detail": "missing=[]",
+  "kind": "automated"
+ },
+ {
+  "check": "writespace line counts sane",
+  "result": "PASS",
+  "detail": "all 1-8 lines",
+  "kind": "automated"
+ }
+]

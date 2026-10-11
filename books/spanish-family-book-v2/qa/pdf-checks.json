@@ -1,0 +1,42 @@
+[
+ {
+  "check": "page size 8.5x11 in",
+  "result": "PASS",
+  "detail": "612.0x792.0 pt across 45 pages"
+ },
+ {
+  "check": "uniform page size",
+  "result": "PASS",
+  "detail": "{(612.0, 792.0)}"
+ },
+ {
+  "check": "fonts embedded",
+  "result": "PASS",
+  "detail": "3 font objects; unembedded=[]"
+ },
+ {
+  "check": "spanish glyph extraction",
+  "result": "PASS",
+  "detail": "accents and inverted punctuation extract correctly"
+ },
+ {
+  "check": "text extractable",
+  "result": "PASS",
+  "detail": "58359 chars extracted"
+ },
+ {
+  "check": "placed images >= 300 effective dpi",
+  "result": "PASS",
+  "detail": "15 placements; below 300 dpi: []"
+ },
+ {
+  "check": "no accidental blank pages",
+  "result": "PASS",
+  "detail": "blank=[]"
+ },
+ {
+  "check": "no content outside trim",
+  "result": "PASS",
+  "detail": "overflow blocks=[]"
+ }
+]

@@ -1,0 +1,358 @@
+{
+ "generated_by": "build/make_manifest.py",
+ "dpi_target": 300,
+ "assets": [
+  {
+   "file": "ch01-doorway-greeting.png",
+   "native_pixels": [
+    1376,
+    768
+   ],
+   "bytes": 1624433,
+   "sha256": "21077658446398ccad789c80b6dc807b682fe1e1f65df553da435515b02ab91d",
+   "format": "PNG (lossless)",
+   "provenance": "ai_generated: created with the host image-generation tool from original prompts written for this book; reviewed visually by the production team; no copyrighted characters or copied artwork used. License basis: original output commissioned by the author for this title.",
+   "placements": [
+    {
+     "chapter": "chapter-01-welcome.md",
+     "caption": "Maya and Leo say hello at the door with Sol the dog. / Maya y Leo saludan en la puerta con Sol, el perro.",
+     "width_in": 4.4
+    }
+   ],
+   "effective_dpi_at_placement": [
+    312.7
+   ],
+   "upscaled": false
+  },
+  {
+   "file": "ch02-colors-painting.png",
+   "native_pixels": [
+    1376,
+    768
+   ],
+   "bytes": 1795948,
+   "sha256": "409b2792bebc2f8c776552e661280599f8b3b0fe024da5db801ee45be657395b",
+   "format": "PNG (lossless)",
+   "provenance": "ai_generated: created with the host image-generation tool from original prompts written for this book; reviewed visually by the production team; no copyrighted characters or copied artwork used. License basis: original output commissioned by the author for this title.",
+   "placements": [
+    {
+     "chapter": "chapter-02-everyday-words.md",
+     "caption": "Maya and Leo paint a big sunny mural together. / Maya y Leo pintan juntos un mural grande y soleado.",
+     "width_in": 4.4
+    }
+   ],
+   "effective_dpi_at_placement": [
+    312.7
+   ],
+   "upscaled": false
+  },
+  {
+   "file": "ch02-numbers-counting.png",
+   "native_pixels": [
+    1376,
+    768
+   ],
+   "bytes": 1474202,
+   "sha256": "bc5dda3cf57c8bb78f6dde0c8314c630289b503ff04679afcdd0aeef72616009",
+   "format": "PNG (lossless)",
+   "provenance": "ai_generated: created with the host image-generation tool from original prompts written for this book; reviewed visually by the production team; no copyrighted characters or copied artwork used. License basis: original output commissioned by the author for this title.",
+   "placements": [
+    {
+     "chapter": "chapter-02-everyday-words.md",
+     "caption": "Leo counts apples while Sol the dog watches one extra apple. / Leo cuenta manzanas mientras Sol, el perro, vigila una manzana extra.",
+     "width_in": 4.4
+    }
+   ],
+   "effective_dpi_at_placement": [
+    312.7
+   ],
+   "upscaled": false
+  },
+  {
+   "file": "ch03-family-portrait.png",
+   "native_pixels": [
+    1376,
+    768
+   ],
+   "bytes": 1571678,
+   "sha256": "c5b2ad812f6fa48358844f095839a61f8bc9f639f23d6820103210971fe235c1",
+   "format": "PNG (lossless)",
+   "provenance": "ai_generated: created with the host image-generation tool from original prompts written for this book; reviewed visually by the production team; no copyrighted characters or copied artwork used. License basis: original output commissioned by the author for this title.",
+   "placements": [
+    {
+     "chapter": "chapter-03-meeting-people.md",
+     "caption": "A warm family portrait: parents, grandparents, aunt, uncle, cousins and a baby. / Un retrato familiar c\u00e1lido: padres, abuelos, t\u00eda, t\u00edo, primos y un beb\u00e9.",
+     "width_in": 4.4
+    }
+   ],
+   "effective_dpi_at_placement": [
+    312.7
+   ],
+   "upscaled": false
+  },
+  {
+   "file": "ch03-feelings-faces.png",
+   "native_pixels": [
+    1376,
+    768
+   ],
+   "bytes": 1416052,
+   "sha256": "3570b62f451eec2ab588797797cdb2edc2dafaf4835eba9e87015660de11d5bc",
+   "format": "PNG (lossless)",
+   "provenance": "ai_generated: created with the host image-generation tool from original prompts written for this book; reviewed visually by the production team; no copyrighted characters or copied artwork used. License basis: original output commissioned by the author for this title.",
+   "placements": [
+    {
+     "chapter": "chapter-03-meeting-people.md",
+     "caption": "Six friendly faces showing happy, sad, tired, hungry, thirsty and excited. / Seis caras amigables que muestran feliz, triste, cansado, con hambre, con sed y emocionado.",
+     "width_in": 4.4
+    }
+   ],
+   "effective_dpi_at_placement": [
+    312.7
+   ],
+   "upscaled": false
+  },
+  {
+   "file": "ch04-classroom.png",
+   "native_pixels": [
+    1376,
+    768
+   ],
+   "bytes": 1593892,
+   "sha256": "1f5477211fd024dd088e020986b7ab365487f9bf76ef2d81152590c031c5ea18",
+   "format": "PNG (lossless)",
+   "provenance": "ai_generated: created with the host image-generation tool from original prompts written for this book; reviewed visually by the production team; no copyrighted characters or copied artwork used. License basis: original output commissioned by the author for this title.",
+   "placements": [
+    {
+     "chapter": "chapter-04-school-and-home.md",
+     "caption": "A bright classroom with desks, a board, a clock and a sunny window. / Un sal\u00f3n luminoso con escritorios, pizarr\u00f3n, reloj y una ventana soleada.",
+     "width_in": 4.4
+    }
+   ],
+   "effective_dpi_at_placement": [
+    312.7
+   ],
+   "upscaled": false
+  },
+  {
+   "file": "ch04-house-rooms.png",
+   "native_pixels": [
+    1376,
+    768
+   ],
+   "bytes": 1818091,
+   "sha256": "512957c36d41976baf77bc3c94ee0b834310d44582a6dfdbf3f87fc764c98eac",
+   "format": "PNG (lossless)",
+   "provenance": "ai_generated: created with the host image-generation tool from original prompts written for this book; reviewed visually by the production team; no copyrighted characters or copied artwork used. License basis: original output commissioned by the author for this title.",
+   "placements": [
+    {
+     "chapter": "chapter-04-school-and-home.md",
+     "caption": "A friendly cutaway house showing kitchen, bedroom, bathroom and living room. / Una casa amigable en corte que muestra cocina, rec\u00e1mara, ba\u00f1o y sala.",
+     "width_in": 4.4
+    }
+   ],
+   "effective_dpi_at_placement": [
+    312.7
+   ],
+   "upscaled": false
+  },
+  {
+   "file": "ch04-school-supplies.png",
+   "native_pixels": [
+    1376,
+    768
+   ],
+   "bytes": 1369405,
+   "sha256": "8f8ed02798972e8c2add8836f347e0afc28eca148d2deb39368d4ca561c399fa",
+   "format": "PNG (lossless)",
+   "provenance": "ai_generated: created with the host image-generation tool from original prompts written for this book; reviewed visually by the production team; no copyrighted characters or copied artwork used. License basis: original output commissioned by the author for this title.",
+   "placements": [
+    {
+     "chapter": "chapter-04-school-and-home.md",
+     "caption": "A tidy flat lay of school supplies: pencil, pen, eraser, notebook and more. / Un arreglo ordenado de \u00fatiles escolares: l\u00e1piz, pluma, borrador, cuaderno y m\u00e1s.",
+     "width_in": 4.4
+    }
+   ],
+   "effective_dpi_at_placement": [
+    312.7
+   ],
+   "upscaled": false
+  },
+  {
+   "file": "ch05-question-conversation.png",
+   "native_pixels": [
+    1376,
+    768
+   ],
+   "bytes": 1443619,
+   "sha256": "fa67ad1c6838440c5d5d71660bd0aa582491b2e6ac00d8dbeeea6231012dc12c",
+   "format": "PNG (lossless)",
+   "provenance": "ai_generated: created with the host image-generation tool from original prompts written for this book; reviewed visually by the production team; no copyrighted characters or copied artwork used. License basis: original output commissioned by the author for this title.",
+   "placements": [
+    {
+     "chapter": "chapter-05-questions-and-sentences.md",
+     "caption": "Maya asks Leo a question with a big friendly question mark between them. / Maya le hace una pregunta a Leo con un gran signo de interrogaci\u00f3n amigable entre ellos.",
+     "width_in": 4.4
+    }
+   ],
+   "effective_dpi_at_placement": [
+    312.7
+   ],
+   "upscaled": false
+  },
+  {
+   "file": "ch06-breakfast-table.png",
+   "native_pixels": [
+    1376,
+    768
+   ],
+   "bytes": 1684169,
+   "sha256": "f22b6cf685ef91785a8325fbeac766fe77d4cbe5262f453a9e07161912bff758",
+   "format": "PNG (lossless)",
+   "provenance": "ai_generated: created with the host image-generation tool from original prompts written for this book; reviewed visually by the production team; no copyrighted characters or copied artwork used. License basis: original output commissioned by the author for this title.",
+   "placements": [
+    {
+     "chapter": "chapter-06-everyday-dialogues.md",
+     "caption": "A cheerful breakfast table with eggs, bread, fruit and milk. / Una mesa de desayuno alegre con huevos, pan, fruta y leche.",
+     "width_in": 4.4
+    }
+   ],
+   "effective_dpi_at_placement": [
+    312.7
+   ],
+   "upscaled": false
+  },
+  {
+   "file": "ch06-park-play.png",
+   "native_pixels": [
+    1376,
+    768
+   ],
+   "bytes": 1643209,
+   "sha256": "01abed93317c028f031ee47d26dc5734fa277a9e77a14820d47caa0bbb2d026d",
+   "format": "PNG (lossless)",
+   "provenance": "ai_generated: created with the host image-generation tool from original prompts written for this book; reviewed visually by the production team; no copyrighted characters or copied artwork used. License basis: original output commissioned by the author for this title.",
+   "placements": [
+    {
+     "chapter": "chapter-06-everyday-dialogues.md",
+     "caption": "Maya, Leo and Nina play tag in a sunny park with Sol the dog. / Maya, Leo y Nina juegan atrapadas en un parque soleado con Sol, el perro.",
+     "width_in": 4.4
+    }
+   ],
+   "effective_dpi_at_placement": [
+    312.7
+   ],
+   "upscaled": false
+  },
+  {
+   "file": "ch06-school-store.png",
+   "native_pixels": [
+    1376,
+    768
+   ],
+   "bytes": 1445986,
+   "sha256": "b5c13aa5dd0fe7f4b6d5bece14532a87f42102947a33aaab57eafa88d605fd5d",
+   "format": "PNG (lossless)",
+   "provenance": "ai_generated: created with the host image-generation tool from original prompts written for this book; reviewed visually by the production team; no copyrighted characters or copied artwork used. License basis: original output commissioned by the author for this title.",
+   "placements": [
+    {
+     "chapter": "chapter-06-everyday-dialogues.md",
+     "caption": "Leo buys an apple and a juice at the friendly school store. / Leo compra una manzana y un jugo en la amable tiendita de la escuela.",
+     "width_in": 4.4
+    }
+   ],
+   "effective_dpi_at_placement": [
+    312.7
+   ],
+   "upscaled": false
+  },
+  {
+   "file": "ch07-reading-corner.png",
+   "native_pixels": [
+    1376,
+    768
+   ],
+   "bytes": 1434697,
+   "sha256": "c808a102584cfac3360a8667451736eeea54192471ef6290ea84878a51188522",
+   "format": "PNG (lossless)",
+   "provenance": "ai_generated: created with the host image-generation tool from original prompts written for this book; reviewed visually by the production team; no copyrighted characters or copied artwork used. License basis: original output commissioned by the author for this title.",
+   "placements": [
+    {
+     "chapter": "chapter-07-reading-practice.md",
+     "caption": "Maya reads a book in a cozy reading corner while Sol naps nearby. / Maya lee un libro en un rinc\u00f3n de lectura acogedor mientras Sol duerme cerca.",
+     "width_in": 4.4
+    }
+   ],
+   "effective_dpi_at_placement": [
+    312.7
+   ],
+   "upscaled": false
+  },
+  {
+   "file": "ch08-celebration-stars.png",
+   "native_pixels": [
+    1376,
+    768
+   ],
+   "bytes": 1335796,
+   "sha256": "332ed23ce734dd24e4f374b51993a179ae2045f9ac9de62c9c33529896af4102",
+   "format": "PNG (lossless)",
+   "provenance": "ai_generated: created with the host image-generation tool from original prompts written for this book; reviewed visually by the production team; no copyrighted characters or copied artwork used. License basis: original output commissioned by the author for this title.",
+   "placements": [
+    {
+     "chapter": "chapter-08-review-and-answers.md",
+     "caption": "Maya, Leo and Sol celebrate with stars and confetti. / Maya, Leo y Sol celebran con estrellas y confeti.",
+     "width_in": 4.4
+    }
+   ],
+   "effective_dpi_at_placement": [
+    312.7
+   ],
+   "upscaled": false
+  },
+  {
+   "file": "cover-art-front.png",
+   "native_pixels": [
+    768,
+    1376
+   ],
+   "bytes": 1240892,
+   "sha256": "d8a9a2e2e59bb283b4a6182a24ff89ea427829948baa524f5ad8e583adae258d",
+   "format": "PNG (lossless)",
+   "provenance": "ai_generated: created with the host image-generation tool from original prompts written for this book; reviewed visually by the production team; no copyrighted characters or copied artwork used. License basis: original output commissioned by the author for this title.",
+   "placements": [
+    {
+     "chapter": "cover",
+     "caption": "front cover art panel (native pixels)",
+     "width_in": 2.56
+    }
+   ],
+   "effective_dpi_at_placement": [
+    300.0
+   ],
+   "upscaled": false
+  },
+  {
+   "file": "hero-kids-waving.png",
+   "native_pixels": [
+    1376,
+    768
+   ],
+   "bytes": 1539370,
+   "sha256": "766d2aec3916323632dce65e23e439aebb3d830aef7144d7eda6cd9796f8124d",
+   "format": "PNG (lossless)",
+   "provenance": "ai_generated: created with the host image-generation tool from original prompts written for this book; reviewed visually by the production team; no copyrighted characters or copied artwork used. License basis: original output commissioned by the author for this title.",
+   "placements": [
+    {
+     "chapter": "title-page",
+     "caption": "title hero",
+     "width_in": 4.4
+    }
+   ],
+   "effective_dpi_at_placement": [
+    312.7
+   ],
+   "upscaled": false
+  }
+ ]
+}
